@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    display: grid;
+    height: 100%;
+    place-items: center;
+    background-color: #f7f1e3;
+}
+.txt{
+    font-family: sans-serif;
+    letter-spacing: 8px;
+    font-size: 102px;
+    font-weight: 700;
+    margin-top: -50px;
+    color: #292929;
+    -webkit-box-reflect: below -30px linear-gradient(transparent, rgba(255, 255,255, 0.4));
+    outline: none;
+} 
