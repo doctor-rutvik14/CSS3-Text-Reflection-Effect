@@ -2,6 +2,7 @@
 This repository contains simple Text Reflection Effect with faded opacity using HTML5 & CSS3.
 
 ◘ The main property of this repo is
+
 -webkit-box-reflect: It's a CSS property that lets you reflect the content in one particular direction.
 The syntax is :
 
