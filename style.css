@@ -16,5 +16,4 @@ html, body{
     margin-top: -50px;
     color: #292929;
     -webkit-box-reflect: below -30px linear-gradient(transparent, rgba(255, 255,255, 0.4));
-    outline: none;
 } 
