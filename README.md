@@ -11,11 +11,11 @@ The syntax is :
 
   direction_values offset mask;
   
-  • direction_values: It defines direction of reflection. And keywords used are above, below, right, left.
+  • direction_values: It defines the direction of reflection. And keywords used are above, below, right, left.
   
-  • offset: Is used to define the distance of a reflection from an orignal content.
+  • offset: Is used to define the distance of a reflection from an original content.
   
-  • mask: Is used to define the gradient. By using from transparent color to any background. It will lead the background to fade-out and blend easily.
+  • mask: Is used to define the gradient. By using from the transparent color to any background. It will lead the background to fadeout and blend easily.
 
   
       
