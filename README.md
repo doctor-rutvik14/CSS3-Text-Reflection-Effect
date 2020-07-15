@@ -7,7 +7,7 @@ This repository contains simple Text Reflection Effect with faded opacity using 
 
 The syntax is :
 
-• -webkit-box-reflect: direction_values offset mask;
+○ -webkit-box-reflect: direction_values offset mask;
   
   
   • direction_values: It defines the direction of reflection. And keywords used are above, below, right, left.
